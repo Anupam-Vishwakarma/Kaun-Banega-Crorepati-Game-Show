@@ -1,0 +1,19 @@
+[
+  ["JavaScript", "Python", "C++", "Java"],
+  ["Code execution", "Code debugging", "Version control", "Code compilation"],
+  ["20", "15", "5", "10"],
+  ["Code debugging", "Error handling", "Code compilation", "Code optimization"],
+  ["Syntax checking", "Value checking", "Semantics checking", "Type checking"],
+  ["Pyramid", "Bottle", "Flask", "Django"],
+  ["Code compilation", "Code debugging", "Package management", "Code execution"],
+  ["None", "False", "Error", "True"],
+  ["Skip a loop", "Break a loop", "Exit a loop", "Continue a loop"],
+  [ "Type checking","Syntax checking", "Value checking", "Scope and mutability"],
+  [ "Pandas","SciPy", "Matplotlib", "NumPy"],
+  ["Generator functions", "Recursive functions", "Higher-order functions", "Anonymous functions"],
+  ["30", "25", "20", "35"],
+  ["Code debugging", "Code optimization", "Cleanup code", "Error handling"],
+  [ "MySQL","Redis", "MongoDB", "PostgreSQL"],
+  ["Concurrent programming", "Parallel programming", "Synchronous programming", "Asynchronous programming"],
+  ["Error", "None", "False", "True"]
+]
